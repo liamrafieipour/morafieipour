@@ -1,4 +1,5 @@
-### Hi there 👋
+<h2> About Me </h2>
+
 I’m a Software Engineer with MSc in Computer Engineering degree, focused on #SoftwareDevelopment and #Machinelearning . #frontend #Backend #fullstackdeveloper
 
 
