@@ -1,4 +1,5 @@
 ### Hi there 👋
+I’m a Software Engineer with MSc in Computer Engineering degree, focused on #SoftwareDevelopment and #Machinelearning . #frontend #Backend #fullstackdeveloper
 
 <!--
 **morafieipour/MoRafieipour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
