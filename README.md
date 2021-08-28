@@ -25,4 +25,4 @@ I’m a Germany-based Software Engineer that has been focused on Software develo
 
 <h2> Let's Connect!</h2>
 My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
+https://github-readme-stats.vercel.app/api?username=morafieipour&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true
