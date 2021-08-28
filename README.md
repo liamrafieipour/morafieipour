@@ -25,3 +25,4 @@ I’m a Germany-based Software Engineer that has been focused on Software develo
 
 <h2> Let's Connect!</h2>
 My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
