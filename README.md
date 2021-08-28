@@ -18,7 +18,7 @@ I’m a Germany-based Software Engineer that has been focused on Software develo
 - SQL, PostgreSQL and SQL Server<br>
 - Adobe CC ( Illustrator, Photoshop, XD and Premiere)<br>
 - Figma<br>
-<h2> Goals 2021 </h2><br>
+<h2> Goals 2021 </h2>
 ✔ focus more<br>
 ✔ run more projects<br>
 ✔ more coding<br>
