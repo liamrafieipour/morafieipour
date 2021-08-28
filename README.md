@@ -1,6 +1,6 @@
 
 <h2>What I do </h2>
-I’m a Germany-based Software Engineer that has been focused on Software development. I am graduated with Master of Science in Computer Engineering from the Computer Engineering Department at the Eastern Mediterranean University Cyprus. My research interest are Web and Desktop application development, Machine Learning, Data Science and UI/UX designing. I also work as Reviewer at Expert Systems with Applications international Journal.
+I’m a Germany-based Software Engineer that has been focused on Software development. I am graduated with Master of Science in Computer Engineering from the Computer Engineering Department at the Eastern Mediterranean University Cyprus. My research interest are Web and Desktop application development, Machine Learning, Data Science and UI/UX designing. I also worked as Reviewer at Expert Systems with Applications international Journal.
 <h2> NOTABLE SKILLS </h2>
 - Assembly <br>
 - Pascal <br>
